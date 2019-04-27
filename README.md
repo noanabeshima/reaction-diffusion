@@ -1,3 +1,5 @@
-Reaction-Diffusion Visualization, following Karl Sims' tutorial below.
+Reaction-Diffusion Visualization.
+
+
 
 https://www.karlsims.com/rd-exhibit.html
