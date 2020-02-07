@@ -11,6 +11,7 @@ Here are some videos of the visualization with different physical constants:
 [Singular](https://www.youtube.com/watch?v=dp-hOlppm60)
 
 Some helpful links!
+
 https://www.karlsims.com/rd-exhibit.html
 
 https://groups.csail.mit.edu/mac/projects/amorphous/GrayScott/
