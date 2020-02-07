@@ -1,6 +1,6 @@
 Reaction-Diffusion Visualization.
 
-
+![](redif.gif)
 
 https://www.karlsims.com/rd-exhibit.html
 https://groups.csail.mit.edu/mac/projects/amorphous/GrayScott/
